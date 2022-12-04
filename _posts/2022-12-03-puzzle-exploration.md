@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploration: Brain related game'Flood'"
+title:  "Exploration: Brain related game 'Flood'"
 date:   2022-12-03 21:47:20 +0400
 categories: devblog
 ---

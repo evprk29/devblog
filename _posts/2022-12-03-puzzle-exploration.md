@@ -18,3 +18,13 @@ This article aims to explore and explain how to play a brain-related game. Throu
 Figure 1: Initial setting of the puzzle.
 
 Figure 1 is an image of how the puzzle looks like when it is started. There are blocks arranged randomly in different colors and shapes, and the starting block is located at the top left corner. There are 6 differnt colors (green, purple, ornage, yellow, blue, and red), and the objective of the game is to make the whole tile into the same color within 23 moves.
+
+### How to play the game
+
+---
+As mention earlier, the game starts from the top left corner block. In the case of figure 1, the green verticle block in the top left corner is the starting block. The player then has to click on a different color block that is connected to the starting block. In this case, the player will have to click on either purple or blue block right next to the starting green block.
+
+![first move](https://upload.wikimedia.org/wikipedia/commons/6/67/First_2022-12-04_at_2.37.43_PM.png)
+Figure 2: Result of first move.
+
+When the player click on an other color block connected to the starting block, the whole previous block will change to that color. Figure 2 shows the result of the player clicking on a purple block next to the green starting block. As it is shown, the green previous block combined with the chosen purple block and turned to purple. This is the process of expanding the blocks, and the player simply has to repeat this until the whole tile turns to same color. The number on the bottom represents how many moves the player took so far out of 23, which means the player has to finish the game within 23 moves.

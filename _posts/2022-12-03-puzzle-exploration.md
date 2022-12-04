@@ -28,3 +28,17 @@ As mention earlier, the game starts from the top left corner block. In the case 
 Figure 2: Result of first move.
 
 When the player click on an other color block connected to the starting block, the whole previous block will change to that color. Figure 2 shows the result of the player clicking on a purple block next to the green starting block. As it is shown, the green previous block combined with the chosen purple block and turned to purple. This is the process of expanding the blocks, and the player simply has to repeat this until the whole tile turns to same color. The number on the bottom represents how many moves the player took so far out of 23, which means the player has to finish the game within 23 moves.
+
+### Possible actions
+
+![possible movement](https://upload.wikimedia.org/wikipedia/commons/5/5e/Movement_2022-12-04_at_3.07.56_PM.png)
+Figure 3: Possible actions
+
+Figure 3 shows the possible actions the player can take during the game.
+
+1. 'Type' drop down - Lets the player choose the level of the game
+2. New game - When clicked on, new game appears
+3. Restart game - When clicked on, the game restarts from the beginning
+4. Undo move - Undo the player's previous action
+5. Solve game - Shows the solution of the game
+

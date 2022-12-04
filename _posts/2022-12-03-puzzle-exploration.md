@@ -17,4 +17,4 @@ This article aims to explore and explain how to play a brain-related game. Throu
 ![initial setting](https://upload.wikimedia.org/wikipedia/commons/0/0d/Flood_2022-12-03_at_10.19.08_PM.png)
 Figure 1: Initial setting of the puzzle.
 
-Figure 1 is an image of how the puzzle looks like when it is started. 
+Figure 1 is an image of how the puzzle looks like when it is started. There are blocks arranged randomly in different colors and shapes, and the starting block is located at the top left corner. There are 6 differnt colors (green, purple, ornage, yellow, blue, and red), and the objective of the game is to make the whole tile into the same color within 23 moves.

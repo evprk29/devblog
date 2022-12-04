@@ -42,3 +42,12 @@ Figure 3 shows the possible actions the player can take during the game.
 4. Undo move - Undo the player's previous action
 5. Solve game - Shows the solution of the game
 
+### Completion
+
+![success](https://upload.wikimedia.org/wikipedia/commons/9/94/Complete_2022-12-04_at_3.31.20_PM.png)
+Figure 4: Successfully completed
+When the player successfully completes the game within 23 moves, the whole tiles changes into same color, and the word **'COMPLETED'** appears on the bottom.
+
+![failed](https://upload.wikimedia.org/wikipedia/commons/8/8c/Fail_2022-12-04_at_3.27.39_PM.png)
+Figure 5: Failed  
+However, when the player fails to turn the whole tile into same color within 23 moves, the word **'FAILED'** appears on the bottom.

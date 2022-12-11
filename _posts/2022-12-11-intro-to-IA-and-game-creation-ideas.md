@@ -23,9 +23,10 @@ Figure 1 is an example of an IA for youtube musice. The structure of the app and
 UI, User interface design or user interface engineering, is the design of user interfaces, such as how the app screen apears to the users, and how users can use the app.
 
 ![gametryout](https://upload.wikimedia.org/wikipedia/commons/0/0d/Trial.png)
-**Figure 2: UI for '천하제일 퍼즐대회' 친선경기**
+**Figure 2: UI for 천하제일 퍼즐대회 친선경기**
+
 ![IAforUI](https://upload.wikimedia.org/wikipedia/commons/2/2b/%EC%8B%9C%EC%9A%B0_%282%29.png)
-**Figure 3: IA for '천하제일 퍼즐대회'**
+**Figure 3: IA for 천하제일 퍼즐대회**
 
 ### Intro to Wireframe
 
@@ -40,6 +41,7 @@ A wireframe is a two-dimensional representation of a page's interface that focus
 We started designing a new game that enhance your memory.
 ![design](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mydesignforgame.png)
 **Figure 5: My design for a new game**
+
 How this game works:
 
 1. When the game starts, you will have few seconds to memorize the shopping list.
@@ -60,6 +62,7 @@ How this game works:
 
 ![UIforidea](https://upload.wikimedia.org/wikipedia/commons/5/5e/UIdesignforidea.png)
 **Figure 7: UI design for the idea**
+
 
 ![ideadevelope](https://upload.wikimedia.org/wikipedia/commons/4/4c/Developingideas.png)
 **Figure 8: Developing ideas**

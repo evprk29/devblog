@@ -63,7 +63,6 @@ How this game works:
 ![UIforidea](https://upload.wikimedia.org/wikipedia/commons/5/5e/UIdesignforidea.png)
 **Figure 7: UI design for the idea**
 
-
 ![ideadevelope](https://upload.wikimedia.org/wikipedia/commons/4/4c/Developingideas.png)
 **Figure 8: Developing ideas**
 

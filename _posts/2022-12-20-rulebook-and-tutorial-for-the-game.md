@@ -10,8 +10,8 @@ categories: devblog
 ### Final idea on the game UI design
 
 ![finalUI](https://upload.wikimedia.org/wikipedia/commons/6/62/Final_2022-12-20_at_3.14.33_PM.png)
-**Figure 1: UI design of the game**
 
+**Figure 1: UI design of the game**
 Figure 1 is the final idea on the game UI design, which will have a theme of 'Hansel and Gretel'.The starting tiles will be simple gray colors, and when the game starts, bread will appear one by one on the tiles to indicate the path. When the player clicks on a right tile after the bread is gone, it will turn into white rocks, but if the player clikcs on the wrong tile, red border will appear with a gingerbread house. It will also let the player know which tile was the correct answer by bordering it with green before the game resets.
 
 ### Final rulebook
